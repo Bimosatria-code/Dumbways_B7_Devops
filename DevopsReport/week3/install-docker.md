@@ -18,8 +18,6 @@
  * Lalu kita login dengan menggunakan perintah `sudo docker login`
  * kemudian masukkan username dan password akun docker.hub yang sudah dibuat tadi
 
-    ![gambar 4](assets/docker4.png)
-
     ![gambar 5](assets/docker5.png)
 
  * Kemudian kita bisa cek versi dari docker dengan menggunakan perintah `sudo docker --version`
