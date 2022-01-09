@@ -61,7 +61,6 @@
 
  * Buka browser dan akses http://<alamatIP>:9100
 
-  ![gambar 1](assets/setmon2.png)
 
 # Melihat data yang dimonitoring dari server
 
