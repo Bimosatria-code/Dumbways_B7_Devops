@@ -22,9 +22,8 @@ services:
 
  * setelah masuk jalankan perintah `psql -U postgres -h localhost -p 5432`
  * Kemudian buat database `CREATE DATABASE housy`
-```
-
-   ![gambar 1](assets/database1.png)
+ 
+  ![gambar 1](assets/database1.png)
 
 
 
