@@ -20,22 +20,22 @@ kebutuhan yang harus ada :
 
 # Penyelesaian
 
-[Repository](Repository.md)
+[Repository](1.Repository/Repository.md)
 
-[Server](server.md)
+[Server](2.Server/server.md)
 
-[User](ansible-setup.md)
+[User](3.User/ansible-setup.md)
 
-[SSH](ssh-key.md)
+[SSH](4.SSH/ssh-key.md)
 
-[Database](Database-pgsl.md)
+[Database](5.Database/Database-pgsl.md)
 
-[Web Server](Webserver.md)
+[Web Server](6.Webserver/Webserver.md)
 
-[Deployment](Deployment.md)
+[Deployment](7.Deployment/Deployment.md)
 
-[CI-CD](Jenkins-cicd.md)
+[CI-CD](8.CI-CD/Jenkins-cicd.md)
 
-[Monitoring](Monitoring.md)
+[Monitoring](9.Monitoring/Monitoring.md)
 
-[Auth](Auth.md)
+[Auth](10.Auth/Auth.md)
