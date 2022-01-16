@@ -38,4 +38,4 @@ Bootcamp Dumbways Devops Engineer Batch 7
 
 ## Final
 - Final examination
-- [Baca lebih lanjut](final/README.md)
+- [Baca lebih lanjut](final-task/README.md)
