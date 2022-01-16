@@ -30,12 +30,11 @@ Bootcamp Dumbways Devops Engineer Batch 7
 - [Baca lebih lanjut](week3/README.md)
 
 ## Minggu ke 4
-- Membuat dokumentasi tahap-tahap mengenai installasi aplikasi nodejs, python dan golang
-- Membuat dokumentasi Study Case memonitoring aplikasi yang sedang mati
-- Membuat dokumentasi membuat reverse proxy dan domain
-- Mempelajari dan membuat dokumentasi mengenai load balance nginx
+- Setup Monitoring
+- Multiple Connect
+- Setup Ansible & Ansible-playbook
 - [Baca lebih lanjut](week4/README.md)
 
 ## Final
-- Final examination
+- Final Task
 - [Baca lebih lanjut](final-task/README.md)
