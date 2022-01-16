@@ -1,6 +1,6 @@
 # Database
  * Buat file docker-compose untuk database postgresql
-   ```
+```
 version: '3.9'
 
 services:
@@ -22,7 +22,7 @@ services:
 
  * setelah masuk jalankan perintah `psql -U postgres -h localhost -p 5432`
  * Kemudian buat database `CREATE DATABASE housy`
- ```
+```
 
    ![gambar 1](assets/database1.png)
 
