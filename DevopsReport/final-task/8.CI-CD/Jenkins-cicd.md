@@ -2,7 +2,6 @@
 ## Install Jenkins
  * Install Jenkins dengan Ansible
  * Pertama kita harus memiliki docker compose dari jenkins
-
    ```
 version: "3.9"
 
