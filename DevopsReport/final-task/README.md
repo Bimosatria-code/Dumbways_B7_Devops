@@ -1,7 +1,7 @@
 # Final Task
 Pada Final Task saya diberi tugas untuk menyelesaikan sebuah case yang mencakup pembelajaran dari awal Bootcamp hingga sekarang.
 
-   [gambar](image_2022-01-11_08-49-02.png)
+   ![gambar](image_2022-01-11_08-49-02.png)
 
 # Kebutuhan
 kebutuhan yang harus ada :
