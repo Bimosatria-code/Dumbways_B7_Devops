@@ -31,6 +31,7 @@ volumes:
 
 networks:
   jenkins-net:
+  ```
    
 
  * Kemudian kita buat file setup ansible untuk jenkins
