@@ -11,10 +11,13 @@ kebutuhan yang harus ada :
 - Container            : Docker
 - Webserver            : Nginx
 - App                  : - Housy-Frontend
+
                          - Housy-Backend
 - Database             : Postgresql
 - Monitoring           : - Node_exporter
+
                          - Prometheus
+                         
                          - Grafana
 - Tools untuk install : Ansible & Ansible-playbook
 
