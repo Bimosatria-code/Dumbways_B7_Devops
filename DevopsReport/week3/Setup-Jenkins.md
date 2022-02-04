@@ -50,7 +50,7 @@
  * Kemudian Apply and save
  * Build manual dengan build now
 
-## Create Job
+## Webhook
  * Login ke akun Github
  * masuk ke halaman repository kita kemudian pilih setting
  * Kemudian Pilih webhook
