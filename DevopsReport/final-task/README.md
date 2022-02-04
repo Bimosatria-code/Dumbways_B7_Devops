@@ -10,15 +10,12 @@ kebutuhan yang harus ada :
 - CI/CD                : Jenkins
 - Container            : Docker
 - Webserver            : Nginx
-- App                  : - Housy-Frontend
-
-                         - Housy-Backend
+- App                  : * Housy-Frontend
+                         * Housy-Backend
 - Database             : Postgresql
-- Monitoring           : - Node_exporter
-
-                         - Prometheus
-                         
-                         - Grafana
+- Monitoring           : * Node_exporter
+                         * Prometheus
+                         * Grafana
 - Tools untuk install : Ansible & Ansible-playbook
 
 # Penyelesaian
